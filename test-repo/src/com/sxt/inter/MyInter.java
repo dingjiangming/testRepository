@@ -4,6 +4,8 @@ public interface MyInter {
 	
 	void m1();
 	
+	
+	
 	void m2();
 
 }
