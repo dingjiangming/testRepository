@@ -6,6 +6,5 @@ public interface MyInter {
 	
 	void m2();
 	
-	void m3();
 
 }
